@@ -1,0 +1,22 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Database
+chroma_db/
+
+# IDE
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
